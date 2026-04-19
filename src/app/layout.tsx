@@ -19,11 +19,12 @@ export const metadata: Metadata = {
     title: "iSmile Technologies | Turning Ideas Into Software Solutions",
     description: "Optimize & Scale with Seamless Operations & Advanced Infrastructure Management",
     siteName: "iSmile Technologies",
+    url: "https://sanaan7788.github.io/ismile",
     images: [
       {
-        url: "/ismile/icon.svg",
-        width: 512,
-        height: 512,
+        url: "https://ismiletechnologies.com/wp-content/uploads/2022/07/cropped-ismile_favicon-192x192.png",
+        width: 192,
+        height: 192,
         alt: "iSmile Technologies",
       },
     ],
