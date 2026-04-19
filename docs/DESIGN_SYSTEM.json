@@ -1,0 +1,36 @@
+{
+  "brand": {
+    "name": "iSmile Technologies",
+    "logo_svg_url": "https://ismiletechnologies.com/wp-content/uploads/2025/02/ismile_main-1.svg",
+    "logo_dimensions": { "width": 127, "height": 44 },
+    "tagline_hero": "Turning Ideas Into Software Solutions",
+    "tagline_sub": "Optimize & Scale with Seamless Operations & Advanced Infrastructure Management"
+  },
+  "colors": {
+    "primary": "#1B6999",
+    "secondary": "#14A49C",
+    "secondary_soft": "#62C2BD",
+    "dark": "#0B2C40",
+    "accent": "#CC3366",
+    "bg": "#FFFFFF",
+    "bg_soft": "#FAF9F5",
+    "text": "#333333",
+    "heading": "#101010",
+    "heading_alt": "#1B6999",
+    "black": "#000000"
+  },
+  "typography": {
+    "headings_primary": "Montserrat",
+    "headings_secondary": "Roboto",
+    "body": "Roboto, system-ui, sans-serif",
+    "scale": { "h1": 56, "h2": 40, "h3": 19, "body": 16, "small": 14 }
+  },
+  "buttons": {
+    "primary":  { "bg": "#1B6999", "text": "#FFFFFF", "hover_bg": "#0B2C40" },
+    "dark_cta": { "bg": "#0B2C40", "text": "#14A49C", "border": "#14A49C", "hover_bg": "#14A49C", "hover_text": "#0B2C40" },
+    "ghost":    { "bg": "transparent", "text": "#CC3366", "border": "#CC3366", "hover_bg": "#CC3366", "hover_text": "#FFFFFF" }
+  },
+  "radius":  { "sm": 6, "md": 12, "lg": 20, "pill": 9999 },
+  "shadow":  { "card": "0 4px 16px rgba(0,0,0,.06)", "cta": "0 8px 24px rgba(27,105,153,.25)" },
+  "spacing_scale": [4, 8, 12, 16, 24, 32, 48, 64, 96]
+}

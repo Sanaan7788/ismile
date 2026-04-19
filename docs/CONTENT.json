@@ -1,0 +1,87 @@
+{
+  "header": {
+    "cta": "Contact Us",
+    "languages": ["English (en_US)", "Indian English (en-IN)"],
+    "nav": [
+      { "label": "Our Customers", "children": ["Success Stories","Testimonials"] },
+      { "label": "Our Services", "children": ["Cloud Infrastructure Services","Data & Artificial Intelligence","Application Innovation","Modern Work","Business Transformation & Strategy","Hyperautomation","Security Services","Business Applications","Blockchain","Integration and APIs","iSmile Solution Centers","Web3 Services","Cloud Hosting Services"] },
+      { "label": "Our Products", "groups": {
+        "AI Acceleration": ["AI Agents in 30 Days Launch Pack","Add Digital AI Workers to Your Org Chart","90-Day Digital Transformation Fast-Track","AI ROI in 6 Weeks or It's Free","Cloudful.ai"],
+        "Cloud & Data Transformation": ["Cloud Enablement Migration Kit","Cloud Landing Zone Pack","Data Platform Starter Kit","DevOps Stack Builder"],
+        "Blockchain & Digital Assets": ["NFT & Digital Asset Engine","Real Estate Tokenization Suite","Blockchain + AI Hub","Enterprise Blockchain Stack"]
+      }},
+      { "label": "Industries", "children": ["Energy + Utilities","Pharma Marketing Hosting Services","Manufacturing","Financial Services + Insurance","Oil & Gas","Veeva Vault Support Services"] },
+      { "label": "Insights", "children": ["Blogs","Webinars","Ebook"] },
+      { "label": "Who We Are", "children": ["About Us","Our Team","Careers"] }
+    ]
+  },
+  "hero": {
+    "h1": "Turning Ideas Into Software Solutions",
+    "sub": "Optimize & Scale with Seamless Operations & Advanced Infrastructure Management",
+    "cta": "Connect with Us"
+  },
+  "value_prop": {
+    "h2": "Driving Value Through AI-Powered Innovation",
+    "body": "iSmile Technologies leverages AI, Cloud and automation to help organizations unlock new opportunities and accelerate digital transformation. Our solutions enhance efficiency, elevate customer experiences, and reduce costs - empowering businesses to scale smarter and innovate faster.",
+    "cta": "Services"
+  },
+  "services": [
+    { "title": "AI Transformation",    "desc": "We help enterprises unlock AI's full potential through Agentic AI, Microsoft Copilot, ML, and AI governance." },
+    { "title": "Data & AI",            "desc": "Our data and AI services enable leaders to make informed decisions using modern platforms, advanced analytics, and AI insights." },
+    { "title": "Cybersecurity",        "desc": "Our advisory and managed services weave Microsoft's intelligent security stack into a Zero-Trust fabric with compliance-ready environments." },
+    { "title": "Cloud + Infrastructure","desc": "From legacy workloads to greenfield innovation, our experts use proven frameworks and AI automation to drive continuous modernization." },
+    { "title": "Product Experience",   "desc": "Our Product Experience team blends strategy, design & tech to turn complex ideas into intuitive, scalable solutions." },
+    { "title": "Modern Business Apps", "desc": "Empower your teams with secure, AI-powered applications that simplify workflows, enhance collaboration, and deliver measurable outcomes." }
+  ],
+  "products": [
+    { "title": "Cloud Landing Zone" },
+    { "title": "Cloud Migration Solution" },
+    { "title": "iSmile.AI" },
+    { "title": "Cloudful.AI" },
+    { "title": "Product Experience" },
+    { "title": "VDI Enablement Solution" }
+  ],
+  "insights_heading": "Leading the way: iSmile Technologies latest Insights",
+  "insights": [
+    { "title": "The Future of Work: How Automation is Reshaping Industries with AI" },
+    { "title": "How AI Chatbots are Transforming Customer Experiences 24/7/365" },
+    { "title": "Accelerating AI Innovation: From Ideas to Intelligent AI Agents in Days!" }
+  ],
+  "what_we_think": {
+    "heading": "What We Think",
+    "tiles": [
+      { "title": "Blogs",    "desc": "Explore in-depth insights, AI trends, and practical tips to transform your business with intelligent automation." },
+      { "title": "Webinars", "desc": "Join our live and on-demand webinars to learn from industry experts and see iSmile Technologies in action across healthcare, retail, and IT." },
+      { "title": "Videos",   "desc": "Watch quick demos, success stories, and expert explainers showcasing how iSmile Technologies simplifies work and elevates experiences." }
+    ]
+  },
+  "customer_stories": [
+    { "title": "Turning Vision into Reality: How We Revolutionized Fundraising with AI" },
+    { "title": "Revolutionizing PropTech: iSmile.AI & PropTech Social Launch PTEK.AI" },
+    { "title": "iSmile Technologies x SKEMA Business School" }
+  ],
+  "values": [
+    { "title": "Customer Orientation" },
+    { "title": "We Deliver Value" },
+    { "title": "All your IT Services & Solutions needs" },
+    { "title": "We Solve Customers' Problems" }
+  ],
+  "partners": ["Google Cloud","Microsoft Azure","AWS","Oracle","IBM Cloud"],
+  "partner_cta": {
+    "heading": "Ready to Partner with iSmile Technologies!",
+    "badges": ["Chicago Managed Service Providers 2022","Customer First","Clutch - Illinois"]
+  },
+  "contact_form": {
+    "heading": "Contact Us for Free Evaluation",
+    "fields": ["First Name*","Last Name*","Business Email*","Phone","Company","Select our Service*","Your message*"],
+    "services_options": ["AI Transformation","Data + AI","Cloud + Infrastructure","CyberSecurity","Product Experience","Modern Business Apps","AI Acceleration","Cloud & Data Transformation","Blockchain & Digital Assets","Other Inquiries"],
+    "submit": "Submit"
+  },
+  "footer": {
+    "address_usa": "501 S Weber Rd, Unit 108, Bolingbrook, IL 60490",
+    "email": "service@ISmileTechnologies.com",
+    "phone": "+1 (732) 347-6245",
+    "social": ["LinkedIn","WhatsApp","Instagram","YouTube"],
+    "legal": "(c) 2026 iSmile Technologies · Privacy Policy · Hosted Green"
+  }
+}
