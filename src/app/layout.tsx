@@ -10,6 +10,25 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "iSmile Technologies | Turning Ideas Into Software Solutions",
   description: "Optimize & Scale with Seamless Operations & Advanced Infrastructure Management",
+  icons: {
+    icon: "/ismile/favicon.png",
+    shortcut: "/ismile/favicon.png",
+    apple: "/ismile/favicon.png",
+  },
+  openGraph: {
+    title: "iSmile Technologies | Turning Ideas Into Software Solutions",
+    description: "Optimize & Scale with Seamless Operations & Advanced Infrastructure Management",
+    siteName: "iSmile Technologies",
+    images: [
+      {
+        url: "/ismile/icon.svg",
+        width: 512,
+        height: 512,
+        alt: "iSmile Technologies",
+      },
+    ],
+    type: "website",
+  },
 };
 
 import Header from "@/components/sections/Header";
